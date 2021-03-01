@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864895857589",
+    "firebase_url": "https://challenjeplatzi-default-rtdb.firebaseio.com",
+    "project_id": "challenjeplatzi",
+    "storage_bucket": "challenjeplatzi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864895857589:android:8d95dd5c4fed83168b9ffc",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ProyectoBase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864895857589-d1tl50n453unc5leqb87de9fk6ketn3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP-9crugZ9FXqZGjA8vvVBcwRqtuFOS-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864895857589-d1tl50n453unc5leqb87de9fk6ketn3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
